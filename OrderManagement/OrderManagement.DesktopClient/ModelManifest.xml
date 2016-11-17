@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Properties\ApplicationData\Customers.lsml" Checksum="B58A47941E3B6EF93C815D70B6CD0674CD51A99162F8DA308E9F27B484BD13C0" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Properties\ApplicationData\OrderDetails.lsml" Checksum="48FFA22EFC2F3B945EC6916A30F66D89D4E89E8FBC9CC385E9B6A06A0767A38F" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Properties\ApplicationData\OrderHeaders.lsml" Checksum="026B6DD758A3770013E39289C3809A7482D7CAAC69C2AB97F39CC392BD46B3C4" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Properties\Client.lsml" Checksum="D4C214D5B8CDB7D13A3320131CF9D2BDDFC359E9465A945148B5740164EA8912" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Properties\Proxies.lsml" Checksum="527776B500E39FE1474F902FCD065F28DED7BC6F6D23947A23A367F5D74E381F" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\CreateNewCustomer.lsml" Checksum="D500A2847942D1A0BE30EF2ADF35B097E1A56E9E652E7481CAD5F3A6E43379BA" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\CreateNewCustomerEdit.lsml" Checksum="8AB58F265F9DE7E89C315BBFAAE24F5765D0309C290F39789C802B456263A49E" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\CustomerDetail.lsml" Checksum="C2311371EF305E3AB55CC26C09A142E13F5F626607576783E2ACAE16E55E371B" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\EditableProductsGrid.lsml" Checksum="E329DD13EB34E37B6158E90729551C32ED6C765E9DC3BE66D99314A3EBC182D1" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\EditableSortedProductsGrid.lsml" Checksum="88EC1A1F18EA217E72D099C60C550131002A9A569AB869F10EB2731E4422D997" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\OpenOrdersListDetail.lsml" Checksum="AC2C7B5FF44C3CECAD1045DCB5465E18D8C21FEF9199D560EE98AC5AE1BB54D3" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\OrderHeaderDetail.lsml" Checksum="73512C3A7880F51C2FFD63C7E9C05848B876218C480BD07ADBA9D8C5F90AD93E" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.DesktopClient\Screens\SearchCustomers.lsml" Checksum="E57ED55E29C034B6497F864EC09013BCC82F83BD950F10F07CC32B5CAC6728E8" />
+  </Documents>
+</ModelDocumentManifest>

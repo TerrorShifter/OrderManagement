@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\Customers.lsml" Checksum="18C19CE2FBB0B5002FD5D10FD917214297FB151BAAD9FC08E5CD203D5BA19424" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\OrderDetails.lsml" Checksum="3168F5A30E7F6B56DBB7E01393670A2A5302AE1F5CA2350EEC8D76E640C768EB" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\OrderHeaders.lsml" Checksum="3A52D1E6601F3AE7C2474E87F2C52C9FA749D78610A49DF6C116E4C430525C92" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\OpenOrders.lsml" Checksum="DB373F00717BB92A4879D49B1576D56795486BE0308B758643F0EEBB63ED411E" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\Products.lsml" Checksum="FB23F4458D124851338843C881C23AFB020B594ABCB89F3878D68892431BA925" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\ProductsWithoutDesc.lsml" Checksum="B5610D900AA71B60001A55C5BA352CE8B7BB5E5A5C5571CBDDA43DB0346AF5A5" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\SortedProducts.lsml" Checksum="76355AFB79822A9171C1C2F1041FCA85B7F51D268464722ABEBAAE6AFE219D94" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\Properties\DataSources\ApplicationData.lsml" Checksum="E6FEEAC3B4A850AAC5F0029259A0B9F8C1BD45F2950D17BD8D6664B9422E6AD6" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\Properties\Service.lsml" Checksum="25110A801012236FFD5376CB221E0CBDAB7AF225938F8DD426245D477DD309A5" />
+    <Document FullPath="E:\Jed\Documents\Visual Studio\Projects\OrderManagement\OrderManagement\OrderManagement.Server\DataSources\ApplicationData\CurrentProducts.lsml" Checksum="65F19C431C323A3447351354099CE1DC4FD3FBE2C0E6FF3487727EFA44E5ABCE" />
+  </Documents>
+</ModelDocumentManifest>

@@ -1,0 +1,10 @@
+OrderManagement.Server.Properties.Service.lsml
+OrderManagement.Server.Properties.DataSources.ApplicationData.lsml
+OrderManagement.Server.DataSources.ApplicationData.Customers.lsml
+OrderManagement.Server.DataSources.ApplicationData.Products.lsml
+OrderManagement.Server.DataSources.ApplicationData.OrderHeaders.lsml
+OrderManagement.Server.DataSources.ApplicationData.OrderDetails.lsml
+OrderManagement.Server.DataSources.ApplicationData.SortedProducts.lsml
+OrderManagement.Server.DataSources.ApplicationData.ProductsWithoutDesc.lsml
+OrderManagement.Server.DataSources.ApplicationData.OpenOrders.lsml
+OrderManagement.Server.DataSources.ApplicationData.CurrentProducts.lsml

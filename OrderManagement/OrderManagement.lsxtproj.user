@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableENC>False</EnableENC>
+    <ProjectView>ProjectFiles</ProjectView>
+    <StartUpClientProject>OrderManagement.DesktopClient</StartUpClientProject>
+    <SchemaManagementLastSsdlWriteTime>635983641222060084</SchemaManagementLastSsdlWriteTime>
+    <SchemaManagementSchemaBuildState>0</SchemaManagementSchemaBuildState>
+    <SchemaManagementDatabaseIncludesSecurityObjects>True</SchemaManagementDatabaseIncludesSecurityObjects>
+    <GrantedPermissions>LightSwitchApplication:CanViewCustomer,LightSwitchApplication:CanAccessProductScreen,LightSwitchApplication:CanAddCustomer,LightSwitchApplication:CanEditCustomer,LightSwitchApplication:CanDeleteCustomer</GrantedPermissions>
+    <EncryptedPublishConnectionString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUg+Kti8yEk2KjRWdgkOL4wAAAAACAAAAAAAQZgAAAAEAACAAAAA2kq/qq5F+21bT8JM43/H0EGP966VdsJ5/6mD0r1rcTAAAAAAOgAAAAAIAACAAAAAZFHz9Z7mgugrJRjiwA4/fs3CwLEglkd+IUFxyETFo2rAAAACfbDMQPSvHpoTOJmpPE5rne/fwpMHsqB9yks78abv1R8RgXt8ZDWaocoYX8JNNi6KQDsSQJGgYzqFxZTEJvkgv4KHSYylAhIzYhn0nrh5AyHm+OMrdC2fZLgvmP7e0PCW42YAWEruG/1NR3VR6p9yH01zGx/EkkkYLf7KssogAT2L7NXYSoPnwCUBoHAd3Gq22xeazAwhu33RG+QEDBJzsbOgN21/dGwCNblaQx7Ik4UAAAADdkCLGFQGyrbly0gK2VdDvTnTNP+VwpX3mJRX1JbcQu2xjZkHNnBgUtstGYkfRHXTI/i2mL+F/dHqJ2rdf2ZMt</EncryptedPublishConnectionString>
+    <EncryptedPublishSchemaConnectionString />
+    <EncryptedClientConnectionString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUg+Kti8yEk2KjRWdgkOL4wAAAAACAAAAAAAQZgAAAAEAACAAAADM6pzICZfdfMPmgJEXo+iZULRK582guz28dReBafesTwAAAAAOgAAAAAIAACAAAABUiLdrE4heiEN+w1MX8Pp7J2biPrOTqi9ZyN8Zwz6WDLAAAACrOJ4ZQZRUiy8Ld+KNGNvW/eez03si0GzBdC8SLzmzP9shw7dNWu7QikwQpfQhn0QGfMnLBEObzlYIci3a/kacdoXgDOLwS5eVquvMgGCk3vZPI+p91ZI521I/HKCTp+6TDn8WxYFVdfwI0fKmn+0+NCse1d0vUsaU30gLK0GiPZPn4MQYUh7q4de4AOEWILtiOy9ReoOh9FV5cgQsNAULGWBWzRh/zr6yNCboqjV6AUAAAAAcBaSoELxo6qVt0Gk17fAnJWfB8gD6R+EIBoO1w9pyowzFC6dSsnXoOhURYekVyDIgKemn2ZBEPKLFu1mRbBwy</EncryptedClientConnectionString>
+    <EncryptedAdministratorPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUg+Kti8yEk2KjRWdgkOL4wAAAAACAAAAAAAQZgAAAAEAACAAAAD8QRq/0hzeg3awBwF0olq6+lk1Og2rsx8D6nFeNzI9fwAAAAAOgAAAAAIAACAAAABC2JoFXKCc2GRqGmhS5kTvuLDYSc7z1qLzqmP6NUHnBBAAAACxeV+hBhttX/zaqWg63q6UQAAAACbACtH6H9v/rHejPoUBA9K1W0QLPPy6NTg+LmJlYiEMfynMMjjghU7gb8Hh+IELpJhGb5JbP88dCFB7i5KsJpY=</EncryptedAdministratorPassword>
+    <PublishUserName />
+    <EncryptedPublishUserPassword />
+    <AzureSubscriptionId>00000000-0000-0000-0000-000000000000</AzureSubscriptionId>
+    <AzureManagementThumbprint />
+    <SharePointServerToServerCertificatePassword />
+  </PropertyGroup>
+</Project>
